@@ -1,0 +1,19 @@
+{
+  "name": "la-panthere-projet-4",
+  "version": "1.0.0",
+  "description": "Projet 4 open classrooms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gislhaine/gislhainepanthere.github.io.git"
+  },
+  "author": "Gislhaine GUEI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gislhaine/gislhainepanthere.github.io/issues"
+  },
+  "homepage": "https://github.com/Gislhaine/gislhainepanthere.github.io#readme"
+}
