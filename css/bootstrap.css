@@ -5143,7 +5143,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
     margin-bottom: 8px;
     background-color: transparent;
     background-image: none;
-    border: transparent solid 1px;
+    border: 1px solid transparent;
     border-radius: 4px;
 }
 
