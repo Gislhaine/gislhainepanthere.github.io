@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Gislhaine/gislhainepanthere.github.io/issues"
   },
-  "homepage": "https://github.com/Gislhaine/gislhainepanthere.github.io#readme"
+  "homepage": "https://github.com/Gislhaine/gislhainepanthere.github.io#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
 }
